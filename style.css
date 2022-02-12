@@ -1,0 +1,45 @@
+.menubrand{
+    font-weight: bold;
+    margin-left: -15px;
+}
+
+.header{
+    margin-left: 10px;
+}
+
+h1,h2,h3,h4,h5,h6, .form-control, .form-select, td{
+    text-transform: capitalize !important;
+}
+
+.dark-font {
+    font-weight: bold !important;
+    color: #000;
+}
+.breadcrumb-item .active {
+    font-weight: bold !important;
+    color: #000;
+}
+.bodyContainer{
+   margin-top: 10%;
+}
+.table tbody, td, tfoot, th, thead, tr{
+    box-shadow: 2px 2px 6px #f9f9f9;
+}
+.headerList li{
+    padding: 20px 50px;
+    box-shadow: 2px 2px 4px #f6f6f6;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(238, 113, 113);
+}
+.headl{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    color: #222;
+    text-shadow: 2px 2px 4px #f9f9f9;
+}
